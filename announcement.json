@@ -1,0 +1,16 @@
+{
+  "announcements": [
+    {
+      "id": "2026-09-12",
+      "title": "เพิ่มเมนูแจ้งซ่อม",
+      "message": "ตอนนี้แจ้งซ่อมคอมได้จากหน้าหลักแล้ว\nสแกน QR บนเครื่องเพื่อเลือกอุปกรณ์ได้เลย",
+      "link": "https://internal.thaiparcels.com:1150/",
+      "link_label": "ดูรายละเอียด",
+      "branch": "",
+      "role": "",
+      "min_version": "2.1.16",
+      "show_until": "2026-09-30",
+      "active": true
+    }
+  ]
+}
