@@ -2,10 +2,9 @@
   "announcements": [
     {
       "id": "2026-09-12",
-      "title": "เพิ่มเมนูแจ้งซ่อม",
-      "message": "ตอนนี้แจ้งซ่อมคอมได้จากหน้าหลักแล้ว",
-      "image": "https://internal.thaiparcels.com:4433/Tps/Claim/linktest/7977fd00-c7c8-471f-b589-e04322d55660.png",
+      "image": "https://internal.thaiparcels.com:4433/Tps/Claim/linktest/5d6cb2b9-debd-48f7-9290-14e20b09d226.png",
       "min_version": "",
+      "branch": "",
       "show_until": "2026-09-30",
       "active": true
     }
