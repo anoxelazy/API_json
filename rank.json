@@ -1,10 +1,16 @@
 {
-  "creator":  ["68148","68224"],
+  "creator": ["68148", "68224"],
   "period": "กันยายน 2569",
   "ranks": {
-    "80770":    { "rank": 1, "reports": 592, "images": 2015 },
-    "66293":    { "rank": 2, "reports": 494, "images": 1923 },
-    "10164046": { "rank": 3, "reports": 406, "images": 2010 }
+    "80770":    { "rank": 1,  "reports": 592, "images": 2015 },
+    "66293":    { "rank": 2,  "reports": 494, "images": 1923 },
+    "10164046": { "rank": 3,  "reports": 406, "images": 2010 },
+    "66131":    { "rank": 4,  "reports": 358, "images": 1753 },
+    "64244":    { "rank": 5,  "reports": 357, "images": 1618 },
+    "68191":    { "rank": 6,  "reports": 328, "images": 1222 },
+    "80476":    { "rank": 7,  "reports": 259, "images": 1164 },
+    "67021":    { "rank": 8,  "reports": 240, "images": 943  },
+    "68037":    { "rank": 9,  "reports": 226, "images": 859  },
+    "68201":    { "rank": 10, "reports": 222, "images": 694  }
   }
 }
-
