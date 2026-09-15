@@ -1,61 +1,135 @@
 {
+  "schema": 2,
   "creator": [
     "68148",
     "68224"
   ],
   "period": "กันยายน 2569",
   "period_code": "2026-09",
-  "generated_at": "2026-09-15T19:17:34+07:00",
+  "grouped_by": "full_name",
+  "generated_at": "2026-09-15T19:54:56+07:00",
+  "total_reports": 10,
+  "total_images": 10,
   "ranks": {
-    "64244": {
-      "rank": 6,
-      "reports": 378,
-      "images": 0
+    "61293": {
+      "rank": 5,
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/8441907a-bbb9-4d41-ad4b-9bef007b62f7.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/ca38d3c5-2638-4d52-9d35-7b9b8b651639.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/92fabefe-ce72-4830-ad96-0f77d3c92446.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/d132cde9-3c2d-454b-ba10-fb51181c2d2d.png\"]",
+      "reports": 1,
+      "images": 1
     },
     "66131": {
-      "rank": 4,
-      "reports": 423,
-      "images": 0
-    },
-    "66293": {
-      "rank": 2,
-      "reports": 494,
-      "images": 0
-    },
-    "67021": {
-      "rank": 8,
-      "reports": 248,
-      "images": 0
-    },
-    "68037": {
-      "rank": 9,
-      "reports": 239,
-      "images": 0
-    },
-    "68191": {
-      "rank": 5,
-      "reports": 385,
-      "images": 0
-    },
-    "68201": {
       "rank": 10,
-      "reports": 222,
-      "images": 0
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/b11374ba-23e2-44c8-8f96-f9dfe8d1f27f.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/0bfb449a-15b1-47a4-9117-10273e8f9fdd.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/e1d2d8c8-6990-4cb9-a92d-213d82a25f53.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/996c457d-af4f-484c-9146-5ca139d425e8.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/c1f66aae-f1b5-4c56-97aa-a4bef90677b0.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/ffc49204-92c9-41d4-b82d-8bd7f30e5461.png\"]",
+      "reports": 1,
+      "images": 1
     },
-    "80476": {
+    "68099": {
+      "rank": 4,
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/0070513826/35771b28-af38-42e6-9f9c-00dc02c6d11b.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0070513826/6c862f99-169c-46e9-bfcc-1fffbbaf43fc.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0070513826/1339e6ca-3cd8-462b-b93c-9ac32856678d.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    "68207": {
       "rank": 7,
-      "reports": 287,
-      "images": 0
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1116510647670391/49e2b591-1494-4c4c-a2b1-564a470382ca.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1116510647670391/8f2bcf63-2c15-4c6e-a6a0-6143b36c20b6.png\"]",
+      "reports": 1,
+      "images": 1
     },
-    "80770": {
-      "rank": 1,
-      "reports": 596,
-      "images": 0
+    "69088": {
+      "rank": 9,
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/401bddb1-7794-4d5a-a9c8-404d1cd67ca6.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/bad66267-8b8c-4f20-b4f6-9dfd0220f372.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/3d282014-b10b-42ba-8b75-ecee7600e223.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/5ec9b49f-90b7-4f24-beac-aa6d10db7a0a.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/2f4b89e4-7b38-40f8-86a8-031d887ceb7b.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/672d5e36-1276-4d73-afc6-4eda79331ec5.png\"]",
+      "reports": 1,
+      "images": 1
     },
-    "10164046": {
+    "80232": {
+      "rank": 8,
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/5f8fd426-d5b1-4d34-8850-385005e9ee5e.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/64227092-0750-4314-8c48-630bc27c3019.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/e9111b05-b425-4381-b732-85b8754b103c.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/5178215e-34bf-4c36-a6bc-a2c4e83c262e.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/e58304ba-3282-484e-acd3-395dfe631165.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    "81719": {
       "rank": 3,
-      "reports": 429,
-      "images": 0
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/c642e459-883d-4db5-a422-d6cdde37fe2b.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/eb1c18ba-8932-4c1d-b6d7-e00b971e8f4a.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/e4d58d3c-13e5-4cb6-bda1-bb5d44ff0c2d.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    "10164022": {
+      "rank": 2,
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/8a6971d2-4fcd-4f0e-93bd-7b954c294dae.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/6185fe8e-7eeb-43a7-9c27-b724b00e92d4.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/60c2ebcc-3164-42c2-8562-4a85cb5cf022.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/0d5438e1-720f-47ec-9329-d4f90ce48c48.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/f0834a3b-bf80-422b-b642-7b5ac36d6e60.png\"]",
+      "reports": 1,
+      "images": 1
     }
-  }
+  },
+  "ranks_list": [
+    {
+      "rank": 1,
+      "emp_id": "81719",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/353b8824-5a79-42c0-a1fe-12e53b8abbcf.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/9c019ba4-fe2a-4040-a1fa-7772279c5e95.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/c52ee116-3f16-4bf0-ba9e-4edc4d9cec7c.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 2,
+      "emp_id": "10164022",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/8a6971d2-4fcd-4f0e-93bd-7b954c294dae.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/6185fe8e-7eeb-43a7-9c27-b724b00e92d4.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/60c2ebcc-3164-42c2-8562-4a85cb5cf022.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/0d5438e1-720f-47ec-9329-d4f90ce48c48.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/f0834a3b-bf80-422b-b642-7b5ac36d6e60.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 3,
+      "emp_id": "81719",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/c642e459-883d-4db5-a422-d6cdde37fe2b.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/eb1c18ba-8932-4c1d-b6d7-e00b971e8f4a.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0060533975E/e4d58d3c-13e5-4cb6-bda1-bb5d44ff0c2d.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 4,
+      "emp_id": "68099",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/0070513826/35771b28-af38-42e6-9f9c-00dc02c6d11b.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0070513826/6c862f99-169c-46e9-bfcc-1fffbbaf43fc.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/0070513826/1339e6ca-3cd8-462b-b93c-9ac32856678d.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 5,
+      "emp_id": "61293",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/8441907a-bbb9-4d41-ad4b-9bef007b62f7.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/ca38d3c5-2638-4d52-9d35-7b9b8b651639.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/92fabefe-ce72-4830-ad96-0f77d3c92446.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/10X260910201727/d132cde9-3c2d-454b-ba10-fb51181c2d2d.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 6,
+      "emp_id": "68207",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1116266480572090/a26f280e-265f-4e92-8329-02e90d9ad51f.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1116266480572090/6d0087a2-2982-476f-9661-778ec61e908f.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 7,
+      "emp_id": "68207",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1116510647670391/49e2b591-1494-4c4c-a2b1-564a470382ca.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1116510647670391/8f2bcf63-2c15-4c6e-a6a0-6143b36c20b6.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 8,
+      "emp_id": "80232",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/5f8fd426-d5b1-4d34-8850-385005e9ee5e.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/64227092-0750-4314-8c48-630bc27c3019.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/e9111b05-b425-4381-b732-85b8754b103c.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/5178215e-34bf-4c36-a6bc-a2c4e83c262e.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117343893985746/e58304ba-3282-484e-acd3-395dfe631165.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 9,
+      "emp_id": "69088",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/401bddb1-7794-4d5a-a9c8-404d1cd67ca6.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/bad66267-8b8c-4f20-b4f6-9dfd0220f372.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/3d282014-b10b-42ba-8b75-ecee7600e223.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/5ec9b49f-90b7-4f24-beac-aa6d10db7a0a.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/2f4b89e4-7b38-40f8-86a8-031d887ceb7b.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/672d5e36-1276-4d73-afc6-4eda79331ec5.png\"]",
+      "reports": 1,
+      "images": 1
+    },
+    {
+      "rank": 10,
+      "emp_id": "66131",
+      "full_name": "[\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/b11374ba-23e2-44c8-8f96-f9dfe8d1f27f.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/0bfb449a-15b1-47a4-9117-10273e8f9fdd.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/e1d2d8c8-6990-4cb9-a92d-213d82a25f53.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/996c457d-af4f-484c-9146-5ca139d425e8.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/c1f66aae-f1b5-4c56-97aa-a4bef90677b0.png\",\"https://internal.thaiparcels.com:4433/Tps/Claim/1117618216264048/ffc49204-92c9-41d4-b82d-8bd7f30e5461.png\"]",
+      "reports": 1,
+      "images": 1
+    }
+  ]
 }
