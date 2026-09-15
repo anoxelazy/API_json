@@ -1,59 +1,61 @@
 {
-  "schema": 1,
-  "date": "2026-09-14",
-  "generated_at": "2026-09-15T19:14:34+07:00",
-  "top_user_id": "80232",
-  "total_records": 94,
-  "ranks": [
-    {
-      "rank": 1,
-      "emp_id": "80232",
-      "reports": 94
-    },
-    {
-      "rank": 2,
-      "emp_id": "66131",
-      "reports": 59
-    },
-    {
-      "rank": 3,
-      "emp_id": "20169003",
-      "reports": 21
-    },
-    {
-      "rank": 4,
-      "emp_id": "68037",
-      "reports": 20
-    },
-    {
-      "rank": 5,
-      "emp_id": "61082",
-      "reports": 18
-    },
-    {
+  "creator": [
+    "68148",
+    "68224"
+  ],
+  "period": "กันยายน 2569",
+  "period_code": "2026-09",
+  "generated_at": "2026-09-15T19:17:34+07:00",
+  "ranks": {
+    "64244": {
       "rank": 6,
-      "emp_id": "68113",
-      "reports": 15
+      "reports": 378,
+      "images": 0
     },
-    {
-      "rank": 7,
-      "emp_id": "10164022",
-      "reports": 14
+    "66131": {
+      "rank": 4,
+      "reports": 423,
+      "images": 0
     },
-    {
+    "66293": {
+      "rank": 2,
+      "reports": 494,
+      "images": 0
+    },
+    "67021": {
       "rank": 8,
-      "emp_id": "69030",
-      "reports": 13
+      "reports": 248,
+      "images": 0
     },
-    {
+    "68037": {
       "rank": 9,
-      "emp_id": "67090",
-      "reports": 12
+      "reports": 239,
+      "images": 0
     },
-    {
+    "68191": {
+      "rank": 5,
+      "reports": 385,
+      "images": 0
+    },
+    "68201": {
       "rank": 10,
-      "emp_id": "69088",
-      "reports": 11
+      "reports": 222,
+      "images": 0
+    },
+    "80476": {
+      "rank": 7,
+      "reports": 287,
+      "images": 0
+    },
+    "80770": {
+      "rank": 1,
+      "reports": 596,
+      "images": 0
+    },
+    "10164046": {
+      "rank": 3,
+      "reports": 429,
+      "images": 0
     }
-  ]
+  }
 }
