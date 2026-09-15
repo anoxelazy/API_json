@@ -1,0 +1,80 @@
+{
+  "creator": [
+    "68148",
+    "68224"
+  ],
+  "period": "กันยายน 2569",
+  "updated_at": "2026-09-15T20:57:01+07:00",
+  "ranks": [
+    {
+      "rank": 1,
+      "emp_id": "80770",
+      "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
+      "location": "สุราษฎร์ธานี",
+      "reports": 596
+    },
+    {
+      "rank": 2,
+      "emp_id": "66293",
+      "full_name": "วิลาวัลย์ ศรีสุขเจริญ",
+      "location": "สิงห์บุรี",
+      "reports": 494
+    },
+    {
+      "rank": 3,
+      "emp_id": "10164046",
+      "full_name": "สุรินทร์",
+      "location": "สุรินทร์",
+      "reports": 429
+    },
+    {
+      "rank": 4,
+      "emp_id": "66131",
+      "full_name": "ดวงใจ บัวสี",
+      "location": "คลังe-com",
+      "reports": 423
+    },
+    {
+      "rank": 5,
+      "emp_id": "68191",
+      "full_name": "ศักดิ์สิทธิ์ น้ำจันทร์",
+      "location": "สิงห์บุรี",
+      "reports": 385
+    },
+    {
+      "rank": 6,
+      "emp_id": "64244",
+      "full_name": "วิพงษ์ศิริ พันธ์จันทร์",
+      "location": "อุบลราชธานี(วารินชำราบ)",
+      "reports": 378
+    },
+    {
+      "rank": 7,
+      "emp_id": "80476",
+      "full_name": "มนตรี รักสกุล",
+      "location": "สุพรรณบุรี",
+      "reports": 287
+    },
+    {
+      "rank": 8,
+      "emp_id": "67021",
+      "full_name": "สุรศักดิ์ มีขำ",
+      "location": "พิษณุโลก",
+      "reports": 248
+    },
+    {
+      "rank": 9,
+      "emp_id": "68037",
+      "full_name": "วรวิทย์ กระดุมจิตร",
+      "location": "นครศรีธรรมราช",
+      "reports": 239
+    },
+    {
+      "rank": 10,
+      "emp_id": "68201",
+      "full_name": "คงฤทธิ์ กาญจนี",
+      "location": "ชุมพร",
+      "reports": 222
+    }
+  ]
+}
