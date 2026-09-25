@@ -5,7 +5,7 @@
   ],
   "period": "กันยายน 2569",
   "is_partial": true,
-  "updated_at": "2026-09-25T03:55:10+07:00",
+  "updated_at": "2026-09-26T03:55:11+07:00",
   "ranks": [
     {
       "rank": 1,
@@ -19,21 +19,21 @@
       "emp_id": "66131",
       "full_name": "ดวงใจ บัวสี",
       "location": "คลังe-com",
-      "reports": 717
+      "reports": 747
     },
     {
       "rank": 3,
       "emp_id": "66293",
       "full_name": "วิลาวัลย์ ศรีสุขเจริญ",
       "location": "สิงห์บุรี",
-      "reports": 581
+      "reports": 607
     },
     {
       "rank": 4,
       "emp_id": "10164046",
       "full_name": "สุรินทร์",
       "location": "สุรินทร์",
-      "reports": 545
+      "reports": 572
     },
     {
       "rank": 5,
@@ -47,35 +47,35 @@
       "emp_id": "64244",
       "full_name": "วิพงษ์ศิริ พันธ์จันทร์",
       "location": "อุบลราชธานี(วารินชำราบ)",
-      "reports": 484
+      "reports": 494
     },
     {
       "rank": 7,
       "emp_id": "67021",
       "full_name": "สุรศักดิ์ มีขำ",
       "location": "พิษณุโลก",
-      "reports": 347
+      "reports": 367
     },
     {
       "rank": 8,
       "emp_id": "80476",
       "full_name": "มนตรี รักสกุล",
       "location": "สุพรรณบุรี",
-      "reports": 326
+      "reports": 334
     },
     {
       "rank": 9,
       "emp_id": "68037",
       "full_name": "วรวิทย์ กระดุมจิตร",
       "location": "นครศรีธรรมราช",
-      "reports": 302
+      "reports": 315
     },
     {
       "rank": 10,
       "emp_id": "68201",
       "full_name": "คงฤทธิ์ กาญจนี",
       "location": "ชุมพร",
-      "reports": 279
+      "reports": 291
     }
   ]
 }
