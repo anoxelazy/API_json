@@ -5,28 +5,77 @@
   ],
   "period": "ตุลาคม 2569",
   "is_partial": true,
-  "updated_at": "2026-10-01T03:55:11+07:00",
+  "updated_at": "2026-10-02T03:55:11+07:00",
   "ranks": [
     {
       "rank": 1,
-      "emp_id": "82044",
-      "full_name": "พีรดล ชูเมือง",
-      "location": "อ่อนนุช",
-      "reports": 13
+      "emp_id": "66131",
+      "full_name": "ดวงใจ บัวสี",
+      "location": "คลังe-com",
+      "reports": 41
     },
     {
       "rank": 2,
-      "emp_id": "61082",
-      "full_name": "กฤษฎา เติมดี",
-      "location": "แจ้งวัฒนะ",
-      "reports": 3
+      "emp_id": "68191",
+      "full_name": "ศักดิ์สิทธิ์ น้ำจันทร์",
+      "location": "สิงห์บุรี",
+      "reports": 37
     },
     {
       "rank": 3,
-      "emp_id": "67057",
-      "full_name": "ภฤศภณ ณภัคสุการกุล",
-      "location": "คลังจ่ายภาคเหนือ",
-      "reports": 1
+      "emp_id": "82044",
+      "full_name": "พีรดล ชูเมือง",
+      "location": "อ่อนนุช",
+      "reports": 34
+    },
+    {
+      "rank": 4,
+      "emp_id": "10164046",
+      "full_name": "สุรินทร์",
+      "location": "สุรินทร์",
+      "reports": 34
+    },
+    {
+      "rank": 5,
+      "emp_id": "80770",
+      "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
+      "location": "สุราษฎร์ธานี",
+      "reports": 30
+    },
+    {
+      "rank": 6,
+      "emp_id": "67021",
+      "full_name": "สุรศักดิ์ มีขำ",
+      "location": "พิษณุโลก",
+      "reports": 30
+    },
+    {
+      "rank": 7,
+      "emp_id": "67025",
+      "full_name": "อมรเทพ กริ่มเพชร",
+      "location": "โคราช",
+      "reports": 22
+    },
+    {
+      "rank": 8,
+      "emp_id": "69003",
+      "full_name": "สมโชค พนมรักษ์",
+      "location": "ชุมพร",
+      "reports": 21
+    },
+    {
+      "rank": 9,
+      "emp_id": "68037",
+      "full_name": "วรวิทย์ กระดุมจิตร",
+      "location": "นครศรีธรรมราช",
+      "reports": 18
+    },
+    {
+      "rank": 10,
+      "emp_id": "68116",
+      "full_name": "วรรณรัตน์ บู่สาลี",
+      "location": "บางบอน",
+      "reports": 17
     }
   ]
 }
