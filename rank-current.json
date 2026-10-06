@@ -5,77 +5,77 @@
   ],
   "period": "ตุลาคม 2569",
   "is_partial": true,
-  "updated_at": "2026-10-06T03:55:10+07:00",
+  "updated_at": "2026-10-07T03:55:10+07:00",
   "ranks": [
     {
       "rank": 1,
       "emp_id": "66131",
       "full_name": "ดวงใจ บัวสี",
       "location": "คลังe-com",
-      "reports": 190
+      "reports": 245
     },
     {
       "rank": 2,
-      "emp_id": "82044",
-      "full_name": "พีรดล ชูเมือง",
-      "location": "อ่อนนุช",
-      "reports": 131
-    },
-    {
-      "rank": 3,
       "emp_id": "80770",
       "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
       "location": "สุราษฎร์ธานี",
-      "reports": 118
+      "reports": 161
+    },
+    {
+      "rank": 3,
+      "emp_id": "82044",
+      "full_name": "พีรดล ชูเมือง",
+      "location": "อ่อนนุช",
+      "reports": 152
     },
     {
       "rank": 4,
       "emp_id": "68191",
       "full_name": "ศักดิ์สิทธิ์ น้ำจันทร์",
       "location": "สิงห์บุรี",
-      "reports": 100
+      "reports": 129
     },
     {
       "rank": 5,
       "emp_id": "10164046",
       "full_name": "สุรินทร์",
       "location": "สุรินทร์",
-      "reports": 86
+      "reports": 122
     },
     {
       "rank": 6,
       "emp_id": "64244",
       "full_name": "วิพงษ์ศิริ พันธ์จันทร์",
       "location": "อุบลราชธานี(วารินชำราบ)",
-      "reports": 70
+      "reports": 94
     },
     {
       "rank": 7,
-      "emp_id": "63014",
-      "full_name": "พัชรินทร์ เรืองเดช",
-      "location": "คลังหน้าบ้าน",
-      "reports": 67
+      "emp_id": "66293",
+      "full_name": "วิลาวัลย์ ศรีสุขเจริญ",
+      "location": "สิงห์บุรี",
+      "reports": 87
     },
     {
       "rank": 8,
-      "emp_id": "67090",
-      "full_name": "พิลาวัลย์ ศรีเผือก",
-      "location": "คลังหน้าบ้าน",
-      "reports": 63
-    },
-    {
-      "rank": 9,
       "emp_id": "67021",
       "full_name": "สุรศักดิ์ มีขำ",
       "location": "พิษณุโลก",
-      "reports": 60
+      "reports": 85
+    },
+    {
+      "rank": 9,
+      "emp_id": "63014",
+      "full_name": "พัชรินทร์ เรืองเดช",
+      "location": "คลังหน้าบ้าน",
+      "reports": 82
     },
     {
       "rank": 10,
-      "emp_id": "67025",
-      "full_name": "อมรเทพ กริ่มเพชร",
-      "location": "โคราช",
-      "reports": 59
+      "emp_id": "68201",
+      "full_name": "คงฤทธิ์ กาญจนี",
+      "location": "ชุมพร",
+      "reports": 71
     }
   ]
 }
