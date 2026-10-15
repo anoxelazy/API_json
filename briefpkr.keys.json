@@ -3,8 +3,8 @@
     "base_url": "https://briefoperation.tpsbranch.com",
     "api_base": "https://briefoperation.tpsbranch.com/api/it/v1/",
     "sso_page": "https://briefoperation.tpsbranch.com/firstmile.html",
-    "partner_key": "<ใส่ partner key — เรียก API ส่วน B ด้วย header X-Api-Key>",
-    "sso_secret": "<ใส่ SSO secret — ใช้เซ็นลิงก์ปุ่ม บรีฟ พขร.>"
+    "partner_key": "qdw9xqgiovMPlJBebmeYiLDu2u0lWzo4f4NtbfXl6X4",
+    "sso_secret": "cb91cf06c187e1735a1ecec90650512ab0ab2035508df6f2592b1c132f012f4e"
   },
   "it_bills_api": {
     "base_url": "https://<เซิร์ฟเวอร์ IT>/firstmile/v1",
