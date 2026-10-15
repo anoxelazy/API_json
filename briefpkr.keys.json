@@ -1,0 +1,14 @@
+{
+  "brief_pkr": {
+    "base_url": "https://briefoperation.tpsbranch.com",
+    "api_base": "https://briefoperation.tpsbranch.com/api/it/v1/",
+    "sso_page": "https://briefoperation.tpsbranch.com/firstmile.html",
+    "partner_key": "<ใส่ partner key — เรียก API ส่วน B ด้วย header X-Api-Key>",
+    "sso_secret": "<ใส่ SSO secret — ใช้เซ็นลิงก์ปุ่ม บรีฟ พขร.>"
+  },
+  "it_bills_api": {
+    "base_url": "https://<เซิร์ฟเวอร์ IT>/firstmile/v1",
+    "bills_key": "<ใส่ /bills key — กุญแจที่ IT ส่งให้ฝั่งบรีฟ พขร.>"
+  },
+  "pilot_branch": "LKB01"
+}
