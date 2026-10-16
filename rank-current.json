@@ -5,14 +5,14 @@
   ],
   "period": "ตุลาคม 2569",
   "is_partial": true,
-  "updated_at": "2026-10-16T03:55:12+07:00",
+  "updated_at": "2026-10-17T03:55:10+07:00",
   "ranks": [
     {
       "rank": 1,
       "emp_id": "66131",
       "full_name": "ดวงใจ บัวสี",
       "location": "คลังe-com",
-      "reports": 664
+      "reports": 711
     },
     {
       "rank": 2,
@@ -26,56 +26,56 @@
       "emp_id": "80770",
       "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
       "location": "สุราษฎร์ธานี",
-      "reports": 477
+      "reports": 494
     },
     {
       "rank": 4,
       "emp_id": "10164046",
       "full_name": "สุรินทร์",
       "location": "สุรินทร์",
-      "reports": 411
+      "reports": 429
     },
     {
       "rank": 5,
-      "emp_id": "64244",
-      "full_name": "วิพงษ์ศิริ พันธ์จันทร์",
-      "location": "อุบลราชธานี(วารินชำราบ)",
-      "reports": 305
-    },
-    {
-      "rank": 6,
       "emp_id": "82044",
       "full_name": "พีรดล ชูเมือง",
       "location": "อ่อนนุช",
-      "reports": 297
+      "reports": 325
     },
     {
-      "rank": 7,
+      "rank": 6,
       "emp_id": "66293",
       "full_name": "วิลาวัลย์ ศรีสุขเจริญ",
       "location": "สิงห์บุรี",
-      "reports": 277
+      "reports": 322
+    },
+    {
+      "rank": 7,
+      "emp_id": "64244",
+      "full_name": "วิพงษ์ศิริ พันธ์จันทร์",
+      "location": "อุบลราชธานี(วารินชำราบ)",
+      "reports": 313
     },
     {
       "rank": 8,
       "emp_id": "67021",
       "full_name": "สุรศักดิ์ มีขำ",
       "location": "พิษณุโลก",
-      "reports": 267
+      "reports": 284
     },
     {
       "rank": 9,
       "emp_id": "68037",
       "full_name": "วรวิทย์ กระดุมจิตร",
       "location": "นครศรีธรรมราช",
-      "reports": 247
+      "reports": 256
     },
     {
       "rank": 10,
       "emp_id": "63014",
       "full_name": "พัชรินทร์ เรืองเดช",
       "location": "คลังหน้าบ้าน",
-      "reports": 227
+      "reports": 248
     }
   ]
 }
