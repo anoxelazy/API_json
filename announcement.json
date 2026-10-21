@@ -1,11 +1,11 @@
 {
   "announcements": [
     {
-      "id": "2",
-      "image": "https://internal.thaiparcels.com:4433/Tps/Claim/linktest/a1e0d771-7730-491c-bc95-b50a8429652e.png",
+      "id": "3",
+      "image": "https://internal.thaiparcels.com:4433/Tps/Claim/linktest/f02ea4e0-d30d-457b-bcb9-57aa718ae7bc.png",
       "min_version": "",
       "branch": "",
-      "show_until": "2026-09-30",
+      "show_until": "2026-10-21",
       "active": true
     }
   ]
