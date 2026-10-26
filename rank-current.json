@@ -5,14 +5,14 @@
   ],
   "period": "ตุลาคม 2569",
   "is_partial": true,
-  "updated_at": "2026-10-26T03:55:10+07:00",
+  "updated_at": "2026-10-27T03:55:10+07:00",
   "ranks": [
     {
       "rank": 1,
       "emp_id": "66131",
       "full_name": "ดวงใจ บัวสี",
       "location": "คลังe-com",
-      "reports": 968
+      "reports": 1017
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "emp_id": "80770",
       "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
       "location": "สุราษฎร์ธานี",
-      "reports": 665
+      "reports": 666
     },
     {
       "rank": 4,
@@ -44,24 +44,24 @@
     },
     {
       "rank": 6,
+      "emp_id": "82044",
+      "full_name": "พีรดล ชูเมือง",
+      "location": "อ่อนนุช",
+      "reports": 388
+    },
+    {
+      "rank": 7,
       "emp_id": "66293",
       "full_name": "วิลาวัลย์ ศรีสุขเจริญ",
       "location": "สิงห์บุรี",
       "reports": 386
     },
     {
-      "rank": 7,
-      "emp_id": "82044",
-      "full_name": "พีรดล ชูเมือง",
-      "location": "อ่อนนุช",
-      "reports": 381
-    },
-    {
       "rank": 8,
       "emp_id": "67021",
       "full_name": "สุรศักดิ์ มีขำ",
       "location": "พิษณุโลก",
-      "reports": 376
+      "reports": 379
     },
     {
       "rank": 9,
