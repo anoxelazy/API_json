@@ -5,77 +5,77 @@
   ],
   "period": "พฤศจิกายน 2569",
   "is_partial": true,
-  "updated_at": "2026-11-10T03:55:10+07:00",
+  "updated_at": "2026-11-11T03:55:10+07:00",
   "ranks": [
     {
       "rank": 1,
       "emp_id": "68191",
       "full_name": "ศักดิ์สิทธิ์ น้ำจันทร์",
       "location": "สิงห์บุรี",
-      "reports": 238
+      "reports": 261
     },
     {
       "rank": 2,
       "emp_id": "80770",
       "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
       "location": "สุราษฎร์ธานี",
-      "reports": 186
+      "reports": 234
     },
     {
       "rank": 3,
-      "emp_id": "66131",
-      "full_name": "ดวงใจ บัวสี",
-      "location": "คลังe-com",
-      "reports": 182
-    },
-    {
-      "rank": 4,
       "emp_id": "67021",
       "full_name": "สุรศักดิ์ มีขำ",
       "location": "พิษณุโลก",
-      "reports": 165
+      "reports": 219
     },
     {
-      "rank": 5,
+      "rank": 4,
       "emp_id": "10164046",
       "full_name": "สุรินทร์",
       "location": "สุรินทร์",
-      "reports": 161
+      "reports": 206
     },
     {
-      "rank": 6,
+      "rank": 5,
       "emp_id": "66293",
       "full_name": "วิลาวัลย์ ศรีสุขเจริญ",
       "location": "สิงห์บุรี",
-      "reports": 107
+      "reports": 187
+    },
+    {
+      "rank": 6,
+      "emp_id": "66131",
+      "full_name": "ดวงใจ บัวสี",
+      "location": "คลังe-com",
+      "reports": 185
     },
     {
       "rank": 7,
       "emp_id": "68037",
       "full_name": "วรวิทย์ กระดุมจิตร",
       "location": "นครศรีธรรมราช",
-      "reports": 95
+      "reports": 124
     },
     {
       "rank": 8,
       "emp_id": "80232",
       "full_name": "วันดี ดอกพุฒ",
       "location": "คลังe-com",
-      "reports": 85
+      "reports": 110
     },
     {
       "rank": 9,
-      "emp_id": "63014",
-      "full_name": "พัชรินทร์ เรืองเดช",
-      "location": "คลังหน้าบ้าน",
-      "reports": 78
+      "emp_id": "80476",
+      "full_name": "มนตรี รักสกุล",
+      "location": "สุพรรณบุรี",
+      "reports": 105
     },
     {
       "rank": 10,
-      "emp_id": "82044",
-      "full_name": "พีรดล ชูเมือง",
-      "location": "อ่อนนุช",
-      "reports": 77
+      "emp_id": "61082",
+      "full_name": "กฤษฎา เติมดี",
+      "location": "แจ้งวัฒนะ",
+      "reports": 93
     }
   ]
 }
