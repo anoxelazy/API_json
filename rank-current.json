@@ -5,28 +5,28 @@
   ],
   "period": "พฤศจิกายน 2569",
   "is_partial": true,
-  "updated_at": "2026-11-18T03:55:10+07:00",
+  "updated_at": "2026-11-19T03:55:10+07:00",
   "ranks": [
     {
       "rank": 1,
       "emp_id": "68191",
       "full_name": "ศักดิ์สิทธิ์ น้ำจันทร์",
       "location": "สิงห์บุรี",
-      "reports": 562
+      "reports": 594
     },
     {
       "rank": 2,
-      "emp_id": "80770",
-      "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
-      "location": "สุราษฎร์ธานี",
-      "reports": 511
-    },
-    {
-      "rank": 3,
       "emp_id": "80232",
       "full_name": "วันดี ดอกพุฒ",
       "location": "คลังe-com",
-      "reports": 505
+      "reports": 579
+    },
+    {
+      "rank": 3,
+      "emp_id": "80770",
+      "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
+      "location": "สุราษฎร์ธานี",
+      "reports": 534
     },
     {
       "rank": 4,
@@ -37,45 +37,45 @@
     },
     {
       "rank": 5,
-      "emp_id": "67021",
-      "full_name": "สุรศักดิ์ มีขำ",
-      "location": "พิษณุโลก",
-      "reports": 449
-    },
-    {
-      "rank": 6,
       "emp_id": "10164046",
       "full_name": "สุรินทร์",
       "location": "สุรินทร์",
-      "reports": 438
+      "reports": 462
+    },
+    {
+      "rank": 6,
+      "emp_id": "67021",
+      "full_name": "สุรศักดิ์ มีขำ",
+      "location": "พิษณุโลก",
+      "reports": 456
     },
     {
       "rank": 7,
       "emp_id": "68037",
       "full_name": "วรวิทย์ กระดุมจิตร",
       "location": "นครศรีธรรมราช",
-      "reports": 303
+      "reports": 313
     },
     {
       "rank": 8,
-      "emp_id": "69113",
-      "full_name": "เอกรัฐ ภุกดีบุรี",
-      "location": "ชุมพร",
-      "reports": 293
-    },
-    {
-      "rank": 9,
       "emp_id": "80476",
       "full_name": "มนตรี รักสกุล",
       "location": "สุพรรณบุรี",
-      "reports": 292
+      "reports": 308
+    },
+    {
+      "rank": 9,
+      "emp_id": "69113",
+      "full_name": "เอกรัฐ ภุกดีบุรี",
+      "location": "ชุมพร",
+      "reports": 303
     },
     {
       "rank": 10,
       "emp_id": "64244",
       "full_name": "วิพงษ์ศิริ พันธ์จันทร์",
       "location": "อุบลราชธานี(วารินชำราบ)",
-      "reports": 290
+      "reports": 302
     }
   ]
 }
