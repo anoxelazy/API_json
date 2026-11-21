@@ -5,35 +5,35 @@
   ],
   "period": "พฤศจิกายน 2569",
   "is_partial": true,
-  "updated_at": "2026-11-21T03:55:11+07:00",
+  "updated_at": "2026-11-22T03:55:10+07:00",
   "ranks": [
     {
       "rank": 1,
+      "emp_id": "68191",
+      "full_name": "ศักดิ์สิทธิ์ น้ำจันทร์",
+      "location": "สิงห์บุรี",
+      "reports": 639
+    },
+    {
+      "rank": 2,
       "emp_id": "80232",
       "full_name": "วันดี ดอกพุฒ",
       "location": "คลังe-com",
       "reports": 638
     },
     {
-      "rank": 2,
-      "emp_id": "68191",
-      "full_name": "ศักดิ์สิทธิ์ น้ำจันทร์",
-      "location": "สิงห์บุรี",
-      "reports": 614
-    },
-    {
       "rank": 3,
       "emp_id": "80770",
       "full_name": "เกษมพงศ์ เกลี้ยงบุญอาน",
       "location": "สุราษฎร์ธานี",
-      "reports": 564
+      "reports": 577
     },
     {
       "rank": 4,
       "emp_id": "10164046",
       "full_name": "สุรินทร์",
       "location": "สุรินทร์",
-      "reports": 501
+      "reports": 510
     },
     {
       "rank": 5,
@@ -54,28 +54,28 @@
       "emp_id": "68037",
       "full_name": "วรวิทย์ กระดุมจิตร",
       "location": "นครศรีธรรมราช",
-      "reports": 339
+      "reports": 343
     },
     {
       "rank": 8,
       "emp_id": "64244",
       "full_name": "วิพงษ์ศิริ พันธ์จันทร์",
       "location": "อุบลราชธานี(วารินชำราบ)",
-      "reports": 327
+      "reports": 336
     },
     {
       "rank": 9,
       "emp_id": "80476",
       "full_name": "มนตรี รักสกุล",
       "location": "สุพรรณบุรี",
-      "reports": 316
+      "reports": 319
     },
     {
       "rank": 10,
       "emp_id": "69113",
       "full_name": "เอกรัฐ ภุกดีบุรี",
       "location": "ชุมพร",
-      "reports": 304
+      "reports": 316
     }
   ]
 }
