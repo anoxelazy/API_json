@@ -1,6 +1,6 @@
 {
   "latest_version": "2.7.3",
-  "force_update": false,
+  "force_update": true,
   "apk_url": "https://drive.google.com/file/d/1A0pq3FHHKoVtNktiNHi7GUdUySpXpcaL/view?usp=drive_link",
   "message": "มีเวอร์ชันใหม่ กรุณาอัปเดตเพื่อใช้งานต่อ !กรุณาใส่อีเมลใน Google ก่อนทำการอัพเดท?"
 }
